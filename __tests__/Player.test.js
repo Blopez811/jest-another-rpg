@@ -1,4 +1,4 @@
-// const { TestWatcher } = require('jest');
+const { TestWatcher } = require('jest');
 const Player = require('../lib/Player.js');
 
 test('creates a player object', () => {
